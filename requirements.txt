@@ -22,5 +22,6 @@ psutil
 py-cpuinfo
 PySide6
 thop>=0.1.1
-ultralytics
+ultralytics=8.2.0
 timm
+
